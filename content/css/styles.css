@@ -136,11 +136,11 @@ html, body {
 
 @keyframes parallax {
     from {
-        background-position-x: 0px;
+        background-position-x: 0;
     }
 
     to {
-        background-position-x: -960px;
+        background-position-x: -100%;
     }
 }
 
